@@ -1,0 +1,3 @@
+ERROR:root:18-19-33Amount is not valid invalid
+ERROR:root:18-19-33Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-19-33Amount Key does not exists in this dictionary {'amount': 3000.75, 'date': '2024-12-10'}

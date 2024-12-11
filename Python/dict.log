@@ -1,0 +1,81 @@
+ERROR:root:18-19-33Amount is not valid invalid
+ERROR:root:18-19-33Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-19-33Amount Key does not exists in this dictionary {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-20-45 Amount is not valid {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-20-45Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-20-45 Amount Key does not exists in this dictionary {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-22-05 Amount is not valid {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-22-05Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-22-05 Account Key does not exists in this dictionary {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-23-04 Amount is not valid {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-23-04Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-23-04 Account Key does not exists in this dictionary {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-24-35 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-24-35Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-24-35 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-24-59 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-24-59Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-24-59 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-38 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-38Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-38 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}
+ERROR:root:18-25-54 TypeError {'account': '67890', 'amount': 'invalid', 'date': '2024-12-10'}
+ERROR:root:18-25-54Error Occured time data 'invalid-date' does not match format '%Y-%m-%d'
+ERROR:root:18-25-54 Key Error {'amount': 3000.75, 'date': '2024-12-10'}

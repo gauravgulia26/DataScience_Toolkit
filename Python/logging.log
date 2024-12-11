@@ -1,0 +1,68 @@
+INFO:root:2024-12-09_18-05-26 Deduction happened !!
+INFO:root:2024-12-09_18-06-02 Deduction happened !!
+INFO:root:2024-12-09_18-06-02 Remaining Balance is 800
+INFO:root:2024-12-09_18-06-17 Deduction happened !!
+INFO:root:2024-12-09_18-06-17 Remaining Balance is 600
+INFO:root:2024-12-09_18-06-17 Deduction happened !!
+INFO:root:2024-12-09_18-06-17 Remaining Balance is 400
+INFO:root:2024-12-09_18-06-17 Deduction happened !!
+INFO:root:2024-12-09_18-06-17 Remaining Balance is 200
+INFO:root:2024-12-09_18-06-17 Deduction happened !!
+INFO:root:2024-12-09_18-06-17 Remaining Balance is 0
+INFO:root:2024-12-09_18-06-19 Balance is Zero now 
+INFO:root:2024-12-09_18-06-22 User entered the username 
+
+INFO:root:2024-12-09_18-06-24 User entered the password 
+
+INFO:root:2024-12-09_18-06-25 User entered the credited amount 
+
+INFO:root:2024-12-09_18-06-25 Balance Got Updated !!
+INFO:root:2024-12-09_18-06-27 Deduction happened !!
+INFO:root:2024-12-09_18-06-27 Remaining Balance is 3800
+INFO:root:2024-12-09_18-06-27 Deduction happened !!
+INFO:root:2024-12-09_18-06-27 Remaining Balance is 3600
+INFO:root:2024-12-09_18-06-28 Deduction happened !!
+INFO:root:2024-12-09_18-06-28 Remaining Balance is 3400
+INFO:root:2024-12-09_18-06-28 Deduction happened !!
+INFO:root:2024-12-09_18-06-28 Remaining Balance is 3200
+INFO:root:2024-12-09_18-06-28 Deduction happened !!
+INFO:root:2024-12-09_18-06-28 Remaining Balance is 3000
+INFO:root:2024-12-09_18-06-28 Deduction happened !!
+INFO:root:2024-12-09_18-06-28 Remaining Balance is 2800
+INFO:root:2024-12-09_18-06-28 Deduction happened !!
+INFO:root:2024-12-09_18-06-28 Remaining Balance is 2600
+INFO:root:2024-12-09_18-06-28 Deduction happened !!
+INFO:root:2024-12-09_18-06-28 Remaining Balance is 2400
+INFO:root:2024-12-09_18-06-28 Deduction happened !!
+INFO:root:2024-12-09_18-06-28 Remaining Balance is 2200
+INFO:root:2024-12-09_18-06-29 Deduction happened !!
+INFO:root:2024-12-09_18-06-29 Remaining Balance is 2000
+INFO:root:2024-12-09_18-06-29 Deduction happened !!
+INFO:root:2024-12-09_18-06-29 Remaining Balance is 1800
+INFO:root:2024-12-09_18-06-32 Deduction happened !!
+INFO:root:2024-12-09_18-06-32 Remaining Balance is 600
+ERROR:root:2024-12-09_18-06-32 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-32 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-34 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-34 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-34 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-34 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-34 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-34 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-35 Error Caused due to insufficent funds !!
+ERROR:root:2024-12-09_18-06-39 Error Caused due to insufficent funds !!
+INFO:root:2024-12-09_18-06-41 Deduction happened !!
+INFO:root:2024-12-09_18-06-41 Remaining Balance is 410
+INFO:root:2024-12-09_18-06-41 Deduction happened !!
+INFO:root:2024-12-09_18-06-41 Remaining Balance is 220
+INFO:root:2024-12-09_18-06-41 Deduction happened !!
+INFO:root:2024-12-09_18-06-41 Remaining Balance is 30
+ERROR:root:2024-12-09_18-06-42 Error Caused due to insufficent funds !!
+INFO:root:2024-12-09_18-06-46 Deduction happened !!
+INFO:root:2024-12-09_18-06-46 Remaining Balance is 0
+INFO:root:2024-12-09_18-06-47 Balance is Zero now 
+INFO:root:2024-12-09_18-06-49 User entered the username 
+
+INFO:root:2024-12-09_18-06-51 User entered the password 
+
+ERROR:root:2024-12-09_18-06-51 Password is incorrect
