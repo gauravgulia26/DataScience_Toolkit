@@ -1,34 +1,32 @@
 name: Autocommit Changes
-
-# Schedule workflow to run at fixed intervals
 on:
-  # Runs the workflow every hour
   schedule:
-    - cron: "*/5 * * * *" # Adjust the cron as needed (e.g., every 5 minutes: "*/5 * * * *")
-  # Allows manual trigger from the Actions tab
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
   autocommit:
     runs-on: ubuntu-latest
     steps:
-      # Check out the repository
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # Configure Git
+        with:
+          fetch-depth: 0
+      
       - name: Set up Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      # Commit and push changes if there are any
+      
       - name: Autocommit changes
         run: |
-          git add .
-          if git diff --quiet; then
-            echo "No changes to commit."
-          else
+          # Add all changes, including untracked files
+          git add -A
+          
+          # Check if there are any changes to commit
+          if [[ -n "$(git status --porcelain)" ]]; then
             git commit -m "Autocommit: Changes detected"
-            git push origin master
+            git push
+          else
+            echo "No changes to commit."
           fi
