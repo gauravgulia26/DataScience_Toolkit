@@ -4,7 +4,7 @@ name: Autocommit Changes
 on:
   # Runs the workflow every hour
   schedule:
-    - cron: "*/10 * * * *" # Adjust the cron as needed (e.g., every 5 minutes: "*/5 * * * *")
+    - cron: "*/5 * * * *" # Adjust the cron as needed (e.g., every 5 minutes: "*/5 * * * *")
   # Allows manual trigger from the Actions tab
   workflow_dispatch:
 
@@ -25,8 +25,8 @@ jobs:
       # Commit and push changes if there are any
       - name: Autocommit changes
         run: |
-          git add -A
-          if git diff --cached --quiet; then
+          git add .
+          if git diff --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Autocommit: Changes detected"
