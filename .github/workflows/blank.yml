@@ -18,7 +18,8 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
       with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        fetch-depth: 0  # Fetch full history for all branches
 
     - name: Configure Git
       run: |
@@ -27,12 +28,10 @@ jobs:
 
     - name: Detect Changes and Commit
       run: |
-        if git status --porcelain | grep .; then
+        if [[ -n "$(git status --porcelain)" ]]; then
           git add .
           git commit -m "Auto-commit: $(date -u)"
+          git push
         else
           echo "No changes to commit."
         fi
-
-    - name: Push Changes
-      run: git push
