@@ -1,37 +1,20 @@
-name: Auto Commit and Push
-
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
+name: Auto Push Changes
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # Runs every 5 minutes
-  workflow_dispatch: # Allows manual trigger
+    - cron: '*/5 * * * *'  # Every 5 minutes
 
 jobs:
-  auto-commit:
+  push:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        fetch-depth: 0  # Fetch full history for all branches
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Configure Git
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-
-    - name: Detect Changes and Commit
-      run: |
-        if [ -n "$(git status --porcelain)" ]; then
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your-email@example.com"
           git add .
-          git commit -m "Auto-commit: $(date -u)"
+          git commit -m "Automated commit" || echo "No changes to commit"
           git push
-        else
-            echo "No changes to commit."
-        fi
