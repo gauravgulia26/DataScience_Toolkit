@@ -28,10 +28,10 @@ jobs:
 
     - name: Detect Changes and Commit
       run: |
-        if [[ -n "$(git status --porcelain)" ]]; then
+        if [ -n "$(git status --porcelain)" ]; then
           git add .
           git commit -m "Auto-commit: $(date -u)"
           git push
         else
-          echo "No changes to commit."
+            echo "No changes to commit."
         fi
