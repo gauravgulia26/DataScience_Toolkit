@@ -1,0 +1,5 @@
+# tensorflow[and-cuda]
+numpy
+matplotlib
+pandas
+scikit-learn

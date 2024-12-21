@@ -1,0 +1,18 @@
+black
+flake8
+isort
+loguru
+mkdocs
+pip
+python-dotenv
+tqdm
+typer
+-e .
+numpy
+pandas
+matplotlib
+ipykernel
+tqdm
+seaborn
+scipy
+scikit-learn

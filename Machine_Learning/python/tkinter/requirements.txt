@@ -1,0 +1,7 @@
+pillow
+tk-tools
+plotly 
+groq
+numpy
+matplotlib
+ipykernel
