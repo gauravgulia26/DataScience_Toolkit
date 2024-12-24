@@ -3,8 +3,7 @@
 > A comprehensive repository containing daily lecture notes, code examples, and practice exercises for Data Science, Python, Machine Learning, Deep Learning, and more.
 
 ---
-
-![alt text](istockphoto-1084609272-612x612-1.jpg)
+![alt text](src/images/istockphoto-1084609272-612x612-1.jpg)
 
 
 ## 🚀 Features
