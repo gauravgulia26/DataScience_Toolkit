@@ -4,6 +4,9 @@
 
 ---
 
+![alt text](istockphoto-1084609272-612x612-1.jpg)
+
+
 ## 🚀 Features
 
 - **📆 Daily Updates:** Consistently updated with new lectures and exercises.
