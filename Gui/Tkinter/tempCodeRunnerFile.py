@@ -1,0 +1,7 @@
+_name.pack(padx=10,pady=10)
+# u_name.pack(padx=10, pady=10)
+# mobile.pack(padx=10, pady=10)
+# city.pack(padx=10, pady=10)
+# zipcode.pack(padx=10, pady=10)
+# male.pack(padx=10, pady=10)
+# fmale.pack(padx=10, pady=10)
