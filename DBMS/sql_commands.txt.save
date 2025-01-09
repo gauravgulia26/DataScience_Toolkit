@@ -1,0 +1,24 @@
+Database -> Table -> Original Data
+
+Show Databases -> Used to show the databases availaible to the user
+Create database 'db_name'; -> Creating your own database
+
+
+#After creating the database you have to enter or switch to it in order to use the database
+
+Use 'db_name' -> To switch the database to your choice.
+Show Tables -> Used to see the availaible table but only after switching to the required db.
+
+
+To create the table -> create table MyTable(fname varchar(6), age int(2), mobile int(10), address varchar(100));
+
+describe MyTable -> Used to show the schema 
+
+# Schema -> An overall visual representation of how your database is loooking.
+
+select * from MyTable; -> To read the values from a table
+select col_name1,col_name2............col_name(n) from table; -> To get a specific column or mix
+
+
+# Where
+
