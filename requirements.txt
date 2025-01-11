@@ -1,0 +1,8 @@
+matplotlib
+pandas 
+numpy
+ipykernel
+tqdm
+openpyxl
+seaborn
+tk-tools
